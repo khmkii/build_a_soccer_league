@@ -1,5 +1,5 @@
 # build_a_soccer_league
-Treehouse python web development techdegree project 1
+Python Web Development Techdegree Project 1
 
 The program reads data from a csv containing rows corresponding to a soccer player
 it creates evenly matched teams based on the players heights and experience
