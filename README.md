@@ -1,4 +1,4 @@
-# build_a_soccer_league
+# Build a Soccer League
 
 
 The program reads data from a pre-supplied csv where rows hold data for a soccer player
